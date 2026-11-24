@@ -1,0 +1,42 @@
+name: Buat File Audio MP3
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-audio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instal edge-tts
+        run: pip install edge-tts
+
+      - name: Generate 135 MP3 dari daftar-audio.txt
+        run: |
+          python - << 'EOF'
+          import asyncio, os, edge_tts
+
+          async def main():
+              os.makedirs("audio", exist_ok=True)
+              with open("daftar-audio.txt", "r", encoding="utf-8") as f:
+                  for line in f:
+                      if "|" not in line:
+                          continue
+                      fn, text = [x.strip() for x in line.split("|", 1)]
+                      if fn.endswith(".mp3") and text:
+                          await edge_tts.Communicate(text, "en-US-JennyNeural").save(os.path.join("audio", fn))
+                          print("OK:", fn)
+
+          asyncio.run(main())
+          EOF
+
+      - name: Unduh folder audio (ZIP)
+        uses: actions/upload-artifact@v4
+        with:
+          name: folder-audio
+          path: audio/
