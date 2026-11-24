@@ -1,0 +1,137 @@
+Taruh semua file di folder "audio" (sebelah index.html). Format: nama file | kalimat yang direkam
+
+behind.mp3  |  behind
+beside.mp3  |  beside
+between.mp3  |  between
+canteen.mp3  |  canteen
+clap-your-hands-five-times.mp3  |  Clap your hands five times!
+classroom.mp3  |  classroom
+fifty.mp3  |  fifty
+find-something-round.mp3  |  Find something round!
+forty.mp3  |  forty
+forty-eight.mp3  |  forty-eight
+forty-five.mp3  |  forty-five
+forty-four.mp3  |  forty-four
+forty-nine.mp3  |  forty-nine
+forty-one.mp3  |  forty-one
+forty-seven.mp3  |  forty-seven
+forty-six.mp3  |  forty-six
+forty-three.mp3  |  forty-three
+forty-two.mp3  |  forty-two
+friday.mp3  |  Friday
+fried-chicken.mp3  |  fried chicken
+fried-rice.mp3  |  fried rice
+great-job.mp3  |  Great job!
+hello-let-s-learn-english-together.mp3  |  Hello! Let's learn English together!
+how-many-blocks.mp3  |  How many blocks?
+i-don-t-like-fried-chicken.mp3  |  I don't like fried chicken.
+i-don-t-like-fried-rice.mp3  |  I don't like fried rice.
+i-don-t-like-milk.mp3  |  I don't like milk.
+i-don-t-like-noodles.mp3  |  I don't like noodles.
+i-don-t-like-tea.mp3  |  I don't like tea.
+i-don-t-like-water.mp3  |  I don't like water.
+i-eat-in-the-canteen.mp3  |  I eat in the canteen.
+i-like-fried-chicken.mp3  |  I like fried chicken.
+i-like-fried-rice.mp3  |  I like fried rice.
+i-like-milk.mp3  |  I like milk.
+i-like-noodles.mp3  |  I like noodles.
+i-like-playing-football.mp3  |  I like playing football.
+i-like-reading.mp3  |  I like reading.
+i-like-riding-a-bike.mp3  |  I like riding a bike.
+i-like-swimming.mp3  |  I like swimming.
+i-like-tea.mp3  |  I like tea.
+i-like-water.mp3  |  I like water.
+i-play-in-the-schoolyard.mp3  |  I play in the schoolyard.
+i-read-books-in-the-library.mp3  |  I read books in the library.
+i-study-in-the-classroom.mp3  |  I study in the classroom.
+in-front-of.mp3  |  in front of
+jump-three-times.mp3  |  Jump three times!
+library.mp3  |  library
+milk.mp3  |  milk
+monday.mp3  |  Monday
+my-hobby-is-playing-football.mp3  |  My hobby is playing football.
+my-hobby-is-reading.mp3  |  My hobby is reading.
+my-hobby-is-riding-a-bike.mp3  |  My hobby is riding a bike.
+my-hobby-is-swimming.mp3  |  My hobby is swimming.
+noodle.mp3  |  noodle
+playing-football.mp3  |  playing football
+pretend-to-swim.mp3  |  Pretend to swim!
+put-the-cat-behind-the-house.mp3  |  Put the cat behind the house.
+put-the-cat-beside-the-house.mp3  |  Put the cat beside the house.
+put-the-cat-between-the-house-and-the-tree.mp3  |  Put the cat between the house and the tree.
+put-the-cat-in-front-of-the-house.mp3  |  Put the cat in front of the house.
+reading.mp3  |  reading
+riding-a-bike.mp3  |  riding a bike
+saturday.mp3  |  Saturday
+schoolyard.mp3  |  schoolyard
+stand-up-and-turn-around.mp3  |  Stand up and turn around!
+sunday.mp3  |  Sunday
+swimming.mp3  |  swimming
+tea.mp3  |  tea
+the-cat-is-behind-the-house.mp3  |  The cat is behind the house.
+the-cat-is-beside-the-house.mp3  |  The cat is beside the house.
+the-cat-is-between-the-house-and-the-tree.mp3  |  The cat is between the house and the tree.
+the-cat-is-in-front-of-the-house.mp3  |  The cat is in front of the house.
+there-are-fifty-stars.mp3  |  There are fifty stars.
+there-are-forty-eight-stars.mp3  |  There are forty-eight stars.
+there-are-forty-five-stars.mp3  |  There are forty-five stars.
+there-are-forty-four-stars.mp3  |  There are forty-four stars.
+there-are-forty-nine-stars.mp3  |  There are forty-nine stars.
+there-are-forty-one-stars.mp3  |  There are forty-one stars.
+there-are-forty-seven-stars.mp3  |  There are forty-seven stars.
+there-are-forty-six-stars.mp3  |  There are forty-six stars.
+there-are-forty-stars.mp3  |  There are forty stars.
+there-are-forty-three-stars.mp3  |  There are forty-three stars.
+there-are-forty-two-stars.mp3  |  There are forty-two stars.
+there-are-thirty-eight-stars.mp3  |  There are thirty-eight stars.
+there-are-thirty-five-stars.mp3  |  There are thirty-five stars.
+there-are-thirty-four-stars.mp3  |  There are thirty-four stars.
+there-are-thirty-nine-stars.mp3  |  There are thirty-nine stars.
+there-are-thirty-one-stars.mp3  |  There are thirty-one stars.
+there-are-thirty-seven-stars.mp3  |  There are thirty-seven stars.
+there-are-thirty-six-stars.mp3  |  There are thirty-six stars.
+there-are-thirty-stars.mp3  |  There are thirty stars.
+there-are-thirty-three-stars.mp3  |  There are thirty-three stars.
+there-are-thirty-two-stars.mp3  |  There are thirty-two stars.
+there-are-twenty-eight-stars.mp3  |  There are twenty-eight stars.
+there-are-twenty-five-stars.mp3  |  There are twenty-five stars.
+there-are-twenty-four-stars.mp3  |  There are twenty-four stars.
+there-are-twenty-nine-stars.mp3  |  There are twenty-nine stars.
+there-are-twenty-one-stars.mp3  |  There are twenty-one stars.
+there-are-twenty-seven-stars.mp3  |  There are twenty-seven stars.
+there-are-twenty-six-stars.mp3  |  There are twenty-six stars.
+there-are-twenty-three-stars.mp3  |  There are twenty-three stars.
+there-are-twenty-two-stars.mp3  |  There are twenty-two stars.
+thirty.mp3  |  thirty
+thirty-eight.mp3  |  thirty-eight
+thirty-five.mp3  |  thirty-five
+thirty-four.mp3  |  thirty-four
+thirty-nine.mp3  |  thirty-nine
+thirty-one.mp3  |  thirty-one
+thirty-seven.mp3  |  thirty-seven
+thirty-six.mp3  |  thirty-six
+thirty-three.mp3  |  thirty-three
+thirty-two.mp3  |  thirty-two
+thursday.mp3  |  Thursday
+today-is-friday.mp3  |  Today is Friday.
+today-is-monday.mp3  |  Today is Monday.
+today-is-saturday.mp3  |  Today is Saturday.
+today-is-sunday.mp3  |  Today is Sunday.
+today-is-thursday.mp3  |  Today is Thursday.
+today-is-tuesday.mp3  |  Today is Tuesday.
+today-is-wednesday.mp3  |  Today is Wednesday.
+touch-something-blue-in-your-room.mp3  |  Touch something blue in your room!
+touch-the-door-and-come-back.mp3  |  Touch the door and come back!
+tuesday.mp3  |  Tuesday
+twenty-eight.mp3  |  twenty-eight
+twenty-five.mp3  |  twenty-five
+twenty-four.mp3  |  twenty-four
+twenty-nine.mp3  |  twenty-nine
+twenty-one.mp3  |  twenty-one
+twenty-seven.mp3  |  twenty-seven
+twenty-six.mp3  |  twenty-six
+twenty-three.mp3  |  twenty-three
+twenty-two.mp3  |  twenty-two
+walk-like-a-duck.mp3  |  Walk like a duck!
+water.mp3  |  water
+wednesday.mp3  |  Wednesday
